@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Whyte";
+    src: url(fonts/Whyte-Light.ttf);
+}
+main {
+    margin: 0 auto;
+    width: 360px;
+    height: 645px;
+    background-color: #2E2E2E;
+}
+.background {
+    background-color: #5F1F28;
+    height: 24px;
+}
+.nav_section {
+    background-color: #842633;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+}
+.main_title {
+    color: #FFFFFF;
+    font-size: 22px;
+    margin-top: 4px;
+    margin-left: 10px;
+    font-family: "Whyte";
+    font-weight: 600;
+}
+.left_section {
+    display: flex;
+}
+.right_section {
+    display: flex;
+}
+.search {
+    margin-right: 30px;
+    margin-top: 12px;
+    height: 22px;
+}
+.options {
+    margin-right: 10px;
+    margin-top: 12px;
+    height: 22px;
+}
+.title_container {
+    margin-left: 35px;
+}
+.title_song {
+    color: #FFFFFF;
+    font-family: "Whyte";
+    font-size: 24px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+.songer_name {
+    color: #FFFFFF;
+    font-family: "Whyte";
+    font-size: 15px;
+    margin-top: 0px;
+}
+.player {
+    margin-top: 45px;
+    margin-left: 30px;
+}
